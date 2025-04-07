@@ -26,7 +26,7 @@ The tutorial is provided as a Python notebook (.ipynb). Feel free to generate th
 2. In JupyterLab, create a new Python notebook
   * Python 3 (ipykernal)
 3. Name your notebook according to naming convention specified in Canvas
-  * 06_Instructor_Lab_*YourLastNameHere*.ipynb
+  * 07_Instructor_Lab_*YourLastNameHere*.ipynb
 4. Complete the tasks required for this lab
 5. Routinely save your notebook to ensure that you do not lose your work
 6. Double check that output for your code cells is saved in your notebook
@@ -39,7 +39,7 @@ The tutorial is provided as a Python notebook (.ipynb). Feel free to generate th
 2. In JupyterLab, create a new Python notebook
   * Python 3 (ipykernal)
 3. Name your notebook according to naming convention specified in Canvas
-  * 06_Independent_Lab_*YourLastNameHere*.ipynb
+  * 07_Independent_Lab_*YourLastNameHere*.ipynb
 4. Complete the tasks required for this lab
 5. Routinely save your notebook to ensure that you do not lose your work
 6. Double check that output for your code cells is saved in your notebook
