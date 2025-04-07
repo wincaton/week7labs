@@ -24,7 +24,6 @@ The tutorial is provided as a Python notebook (.ipynb). Feel free to generate th
 
 1. Review the instructions for this lab provided in the [07_Instructor_Lab.md](/07_Instructor_Lab.md) file
 2. In JupyterLab, create a new Python notebook
-  * Python 3 (ipykernal)
 3. Name your notebook according to naming convention specified in Canvas
   * 07_Instructor_Lab_*YourLastNameHere*.ipynb
 4. Complete the tasks required for this lab
@@ -37,7 +36,6 @@ The tutorial is provided as a Python notebook (.ipynb). Feel free to generate th
 
 1. Review the instructions for this lab provided in the [07_Independent_Lab.md](/07_Independent_Lab.md) file
 2. In JupyterLab, create a new Python notebook
-  * Python 3 (ipykernal)
 3. Name your notebook according to naming convention specified in Canvas
   * 07_Independent_Lab_*YourLastNameHere*.ipynb
 4. Complete the tasks required for this lab
