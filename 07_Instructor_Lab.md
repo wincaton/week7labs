@@ -15,7 +15,7 @@ Using the `github_teams` dataset, please perform the following operations in ord
 * Determine which columns are categorical and convert them from *object* to *category*.
 * How many unique values does `Team_type` have?
 * How many unique values does `Team_size_class` have?
-* * What is the value of the 63rd row and 6th column?
+* What is the value of the 63rd row and 6th column?
 * What are the values for the 300th row?
 * Using three different methods, select row with index value 595 with 1st, 2nd, 3rd columns.
 * Using two different methods, select the row with index value 46 with the 3rd and 7th columns.
